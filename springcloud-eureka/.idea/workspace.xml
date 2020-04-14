@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f719828-5871-4194-925d-ce38d32d7f81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.README_images/7ef0c14d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.README_images/8cc69afe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.README_images/f1aedd47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.README_images/版本对应关系.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/java/com/zhuyi/eureka/SpringCloudEurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/resources/application-port1.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/resources/application-port2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/resources/application-port3.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/spring-cloud-eurekatwo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/spring-cloud-eurekatwo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/src/main/resources/application-peer1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/src/main/resources/application-peer1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/src/main/resources/application-peer2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/src/main/resources/application-peer2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/classes/application-peer1.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/classes/application-peer2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka/src/main/resources/application-peer2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/classes/com/zhuyi/eurekatwo/SpringCloudEurekatwoApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-archiver/pom.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
@@ -50,6 +27,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
@@ -177,12 +160,24 @@
       <workItem from="1586847385802" duration="12000" />
       <workItem from="1586847439976" duration="9307000" />
       <workItem from="1586857870937" duration="3153000" />
-      <workItem from="1586861160472" duration="2655000" />
+      <workItem from="1586861160472" duration="3295000" />
     </task>
+    <task id="LOCAL-00001" summary="eureka notes">
+      <created>1586864082556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586864082556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eureka notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="eureka notes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="420" y="92" key="#Project_Structure" timestamp="1586847716704">
@@ -197,10 +192,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="421" y="90" key="#SpringCloudEurekatwoApplication/0.0.1600.860@0.0.1600.860" timestamp="1586858941085" />
-    <state x="251" y="22" key="CommitChangelistDialog2" timestamp="1586860423112">
+    <state x="251" y="22" key="CommitChangelistDialog2" timestamp="1586864064800">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="251" y="22" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586860423112" />
+    <state x="251" y="22" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586864064800" />
     <state x="91" y="125" width="1400" height="660" key="DiffContextDialog" timestamp="1586849736411">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -249,6 +244,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="318" y="252" key="SpringBootCustomization/0.0.1600.860@0.0.1600.860" timestamp="1586847978063" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1586864129395">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1586864129395" />
     <state x="238" y="200" key="new project wizard" timestamp="1586862074817">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

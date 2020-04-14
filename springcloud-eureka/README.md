@@ -4,12 +4,12 @@ https://cloud.springEurekaJacksonCodec$DataCenterInfoDeserializer.io/spring-clou
 
 #### Eureka 注册中心搭建(集群)
 - 导入依赖  
-**导入依赖时注意下springcloud 和 springboot 的版本对应关系** 可以在[官网](https://spring.io/projects/spring-cloud#learn)找到相关信息
-![](.README_images/版本对应关系.png)  
-假设选springcloud 的Hoxton SR3版本，
-![](.README_images/f1aedd47.png)
-springboot 可使用2.2.5.RELEASE版本
-![](.README_images/8cc69afe.png)
+**导入依赖时注意下springcloud 和 springboot 的版本对应关系** 可以在[官网](https://spring.io/projects/spring-cloud#learn)找到相关信息  
+![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.png)  
+假设选springcloud 的Hoxton SR3版本，  
+![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/f1aedd47.png)
+springboot 可使用2.2.5.RELEASE版本  
+![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/8cc69afe.png)
 
 ```
 <dependencies>
@@ -116,12 +116,12 @@ eureka:
 ```
 需要在hosts文件配置  hostname和ip 的对应关系（实际请求会根据hosts文件中的配置进行域名解析，可以了解下hosts文件[Linux 下hosts文件详解](https://www.cnblogs.com/quanjq/p/7737475.html)）
 
-- 启动类
-![](.README_images/7ef0c14d.png)
+- 启动类  
+![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/7ef0c14d.png)
 
 - 启动
 用 IDEA maven 打个包
-![](.README_images/83c40fcd.png)
+![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/83c40fcd.png)
 windows 环境启动
 ```
 D:\IdeaProject\springcloud-learn\springcloud-eureka\spring-cloud-eureka-cluster\target>java -jar spring-cloud-eureka-cluster-1.0-SNAPSHOT.jar --spring.profiles.active=po
