@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f719828-5871-4194-925d-ce38d32d7f81" name="Default Changelist" comment="" />
+    <list default="true" id="8f719828-5871-4194-925d-ce38d32d7f81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.README_images/7ef0c14d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.README_images/8cc69afe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.README_images/f1aedd47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.README_images/版本对应关系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/java/com/zhuyi/eureka/SpringCloudEurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/resources/application-port1.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/resources/application-port2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/resources/application-port3.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/spring-cloud-eurekatwo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/spring-cloud-eurekatwo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/src/main/resources/application-peer1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/src/main/resources/application-peer1.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/src/main/resources/application-peer2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/src/main/resources/application-peer2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/classes/application-peer1.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/classes/application-peer2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka/src/main/resources/application-peer2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/classes/com/zhuyi/eurekatwo/SpringCloudEurekatwoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/spring-cloud-eurekatwo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/spring-cloud-eurekatwo-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/spring-cloud-eurekatwo-1.0-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +48,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,6 +65,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aWNRuD462PkDkgsdFPLyWWS8je" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,17 +79,19 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-eureka/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-eureka-cluster/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.2375" />
     <property name="project.structure.side.proportion" value="0.34102565" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProject\springcloud-learn\springcloud-eureka\spring-cloud-eureka-cluster\src\main\resources" />
       <recent name="D:\IdeaProject\springcloud-learn\springcloud-eureka\spring-cloud-eureka\src\main\resources" />
       <recent name="D:\IdeaProject\springcloud-learn\springcloud-eureka\spring-cloud-eurekatwo\src\main\resources" />
     </key>
@@ -62,7 +103,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringCloudEurekaApplication (1)">
+  <component name="RunManager" selected="Spring Boot.SpringCloudEurekatwoApplication">
     <configuration name="SpringCloudEurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="spring-cloud-eureka" />
       <extension name="coverage">
@@ -72,7 +113,7 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhuyi.eureka.SpringCloudEurekaApplication" />
-      <option name="ACTIVE_PROFILES" value="peer1" />
+      <option name="ACTIVE_PROFILES" value="peer2" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +155,6 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
@@ -139,7 +175,9 @@
       <option name="presentableId" value="Default" />
       <updated>1586847384609</updated>
       <workItem from="1586847385802" duration="12000" />
-      <workItem from="1586847439976" duration="8263000" />
+      <workItem from="1586847439976" duration="9307000" />
+      <workItem from="1586857870937" duration="3153000" />
+      <workItem from="1586861160472" duration="2655000" />
     </task>
     <servers />
   </component>
@@ -151,69 +189,77 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="420" y="92" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1586847716704" />
-    <state x="421" y="90" key="#SpringCloudEurekaApplication_(1)" timestamp="1586854973060">
+    <state x="421" y="90" key="#SpringCloudEurekaApplication_(1)" timestamp="1586858408301">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="421" y="90" key="#SpringCloudEurekaApplication_(1)/0.0.1600.860@0.0.1600.860" timestamp="1586854973060" />
-    <state x="421" y="90" key="#SpringCloudEurekatwoApplication" timestamp="1586854424875">
+    <state x="421" y="90" key="#SpringCloudEurekaApplication_(1)/0.0.1600.860@0.0.1600.860" timestamp="1586858408301" />
+    <state x="421" y="90" key="#SpringCloudEurekatwoApplication" timestamp="1586858941085">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="421" y="90" key="#SpringCloudEurekatwoApplication/0.0.1600.860@0.0.1600.860" timestamp="1586854424875" />
+    <state x="421" y="90" key="#SpringCloudEurekatwoApplication/0.0.1600.860@0.0.1600.860" timestamp="1586858941085" />
+    <state x="251" y="22" key="CommitChangelistDialog2" timestamp="1586860423112">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="251" y="22" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586860423112" />
     <state x="91" y="125" width="1400" height="660" key="DiffContextDialog" timestamp="1586849736411">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="91" y="125" width="1400" height="660" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1586849736411" />
-    <state width="1504" height="68" key="GridCell.Tab.0.bottom" timestamp="1586856546563">
+    <state x="615" y="270" key="GrepConsoleSound" timestamp="1586863868935">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1504" height="68" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586856546563" />
-    <state width="1504" height="68" key="GridCell.Tab.0.center" timestamp="1586856546563">
+    <state x="615" y="270" key="GrepConsoleSound/0.0.1600.860@0.0.1600.860" timestamp="1586863868935" />
+    <state width="1556" height="357" key="GridCell.Tab.0.bottom" timestamp="1586863872493">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1504" height="68" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586856546563" />
-    <state width="1504" height="68" key="GridCell.Tab.0.left" timestamp="1586856546563">
+    <state width="1556" height="357" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586863872493" />
+    <state width="1556" height="357" key="GridCell.Tab.0.center" timestamp="1586863872493">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1504" height="68" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586856546563" />
-    <state width="1504" height="68" key="GridCell.Tab.0.right" timestamp="1586856546563">
+    <state width="1556" height="357" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586863872493" />
+    <state width="1556" height="357" key="GridCell.Tab.0.left" timestamp="1586863872493">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1504" height="68" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586856546563" />
-    <state width="1504" height="68" key="GridCell.Tab.1.bottom" timestamp="1586856546563">
+    <state width="1556" height="357" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586863872493" />
+    <state width="1556" height="357" key="GridCell.Tab.0.right" timestamp="1586863872493">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1504" height="68" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586856546563" />
-    <state width="1504" height="68" key="GridCell.Tab.1.center" timestamp="1586856546563">
+    <state width="1556" height="357" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586863872493" />
+    <state width="1492" height="2" key="GridCell.Tab.1.bottom" timestamp="1586861032057">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1504" height="68" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586856546563" />
-    <state width="1504" height="68" key="GridCell.Tab.1.left" timestamp="1586856546563">
+    <state width="1492" height="2" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586861032057" />
+    <state width="1492" height="2" key="GridCell.Tab.1.center" timestamp="1586861032057">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1504" height="68" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586856546563" />
-    <state width="1504" height="68" key="GridCell.Tab.1.right" timestamp="1586856546563">
+    <state width="1492" height="2" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586861032057" />
+    <state width="1492" height="2" key="GridCell.Tab.1.left" timestamp="1586861032057">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1504" height="68" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586856546563" />
-    <state x="198" y="7" key="SettingsEditor" timestamp="1586848031970">
+    <state width="1492" height="2" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586861032057" />
+    <state width="1492" height="2" key="GridCell.Tab.1.right" timestamp="1586861032057">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="198" y="7" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586848031970" />
+    <state width="1492" height="2" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586861032057" />
+    <state x="131" y="65" key="SettingsEditor" timestamp="1586861002665">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="131" y="65" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586861002665" />
     <state x="318" y="252" key="SpringBootCustomization" timestamp="1586847978063">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="318" y="252" key="SpringBootCustomization/0.0.1600.860@0.0.1600.860" timestamp="1586847978063" />
-    <state x="238" y="200" key="new project wizard" timestamp="1586851939799">
+    <state x="238" y="200" key="new project wizard" timestamp="1586862074817">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="238" y="200" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1586851939799" />
+    <state x="238" y="200" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1586862074817" />
     <state x="484" y="192" key="run.anything.popup" timestamp="1586847942721">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="484" y="192" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1586847942721" />
-    <state x="525" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586856260036">
+    <state x="525" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586863797358">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="525" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586856260036" />
+    <state x="525" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586863797358" />
   </component>
 </project>

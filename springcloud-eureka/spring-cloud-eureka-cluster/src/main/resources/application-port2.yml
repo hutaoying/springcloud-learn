@@ -1,5 +1,5 @@
 server:
-  port: 8000
+  port: 8001
 spring:
   application:
     name: spring-cloud-eureka
@@ -10,8 +10,9 @@ eureka:
     #注册中心路径，如果有多个eureka server，在这里需要配置其他eureka server的地址，
     #用","进行区分，如"http://address:8888/eureka,http://address:8887/eureka"
     service-url:
-      defaultZone: http://localhost:8001/eureka/,http://localhost:8001/eureka/
+      defaultZone: http://localhost:8000/eureka/,http://localhost:8002/eureka/
   instance:
-    ip-address: 127.0.0.1
-    hostname: peer1
+    # ip-address: 127.0.0.1
+    hostname: port2
+
 

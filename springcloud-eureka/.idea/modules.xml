@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eurekatwo/spring-cloud-eurekatwo.iml" filepath="$PROJECT_DIR$/spring-cloud-eurekatwo/spring-cloud-eurekatwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-eureka.iml" filepath="$PROJECT_DIR$/.idea/springcloud-eureka.iml" />
     </modules>
