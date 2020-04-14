@@ -12,7 +12,13 @@ springboot 可使用2.2.5.RELEASE版本
 ![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/8cc69afe.png)
 
 ```
-<dependencies>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.5.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -120,7 +126,7 @@ eureka:
 ![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/7ef0c14d.png)
 
 - 启动
-用 IDEA maven 打个包
+用 IDEA maven 打个包  
 ![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/83c40fcd.png)
 windows 环境启动
 ```
