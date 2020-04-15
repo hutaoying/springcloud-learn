@@ -4,15 +4,6 @@
     <list default="true" id="8f719828-5871-4194-925d-ce38d32d7f81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/classes/application-peer1.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/classes/com/zhuyi/eurekatwo/SpringCloudEurekatwoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/spring-cloud-eurekatwo-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/spring-cloud-eurekatwo-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eurekatwo/target/spring-cloud-eurekatwo-1.0-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +151,8 @@
       <workItem from="1586847385802" duration="12000" />
       <workItem from="1586847439976" duration="9307000" />
       <workItem from="1586857870937" duration="3153000" />
-      <workItem from="1586861160472" duration="3295000" />
+      <workItem from="1586861160472" duration="3956000" />
+      <workItem from="1586912845093" duration="168000" />
     </task>
     <task id="LOCAL-00001" summary="eureka notes">
       <created>1586864082556</created>
@@ -169,7 +161,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586864082556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="eureka notes">
+      <created>1586864485874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586864485874</updated>
+    </task>
+    <task id="LOCAL-00003" summary="eureka notes">
+      <created>1586864655435</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586864655435</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,10 +198,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="421" y="90" key="#SpringCloudEurekatwoApplication/0.0.1600.860@0.0.1600.860" timestamp="1586858941085" />
-    <state x="251" y="22" key="CommitChangelistDialog2" timestamp="1586864481738">
+    <state x="251" y="22" key="CommitChangelistDialog2" timestamp="1586864652994">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="251" y="22" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586864481738" />
+    <state x="251" y="22" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586864652994" />
     <state x="91" y="125" width="1400" height="660" key="DiffContextDialog" timestamp="1586849736411">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -204,22 +210,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="615" y="270" key="GrepConsoleSound/0.0.1600.860@0.0.1600.860" timestamp="1586863868935" />
-    <state width="1556" height="357" key="GridCell.Tab.0.bottom" timestamp="1586863872493">
+    <state width="1556" height="357" key="GridCell.Tab.0.bottom" timestamp="1586865135386">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="357" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586863872493" />
-    <state width="1556" height="357" key="GridCell.Tab.0.center" timestamp="1586863872493">
+    <state width="1556" height="357" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586865135386" />
+    <state width="1556" height="357" key="GridCell.Tab.0.center" timestamp="1586865135385">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="357" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586863872493" />
-    <state width="1556" height="357" key="GridCell.Tab.0.left" timestamp="1586863872493">
+    <state width="1556" height="357" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586865135385" />
+    <state width="1556" height="357" key="GridCell.Tab.0.left" timestamp="1586865135384">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="357" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586863872493" />
-    <state width="1556" height="357" key="GridCell.Tab.0.right" timestamp="1586863872493">
+    <state width="1556" height="357" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586865135384" />
+    <state width="1556" height="357" key="GridCell.Tab.0.right" timestamp="1586865135386">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="357" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586863872493" />
+    <state width="1556" height="357" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586865135386" />
     <state width="1492" height="2" key="GridCell.Tab.1.bottom" timestamp="1586861032057">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

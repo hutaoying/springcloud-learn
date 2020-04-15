@@ -128,7 +128,7 @@ eureka:
 - 启动
 用 IDEA maven 打个包  
 ![](https://github.com/hutaoying/springcloud-learn/blob/master/springcloud-eureka/.README_images/83c40fcd.png)
-windows 环境启动
+windows 环境启动  
 ```
 D:\IdeaProject\springcloud-learn\springcloud-eureka\spring-cloud-eureka-cluster\target>java -jar spring-cloud-eureka-cluster-1.0-SNAPSHOT.jar --spring.profiles.active=po
 rt1
